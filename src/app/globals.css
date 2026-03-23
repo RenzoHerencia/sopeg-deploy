@@ -367,11 +367,7 @@ body {
 /* Mobile: full-bleed backdrop — image shows through at ~0.15 */
 @media (max-width: 768px) {
   .hero-image-wrap { left: 0; }
-  .hero-image-overlay {
-    background:
-      rgba(7, 42, 63, 0.85),
-      linear-gradient(to top, rgba(0,0,0,0.60) 0%, transparent 60%);
-  }
+  
 }
 
 /* ── BUTTONS ── */
